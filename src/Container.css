@@ -1,0 +1,24 @@
+.folderHeader {
+		background: #335533;
+		color: white;
+		font-size: 18px;
+		font-family: sans-serif;
+		padding: 10px;
+}
+.csHdrCol {
+	cursor: pointer;
+}
+.csPage {
+	border: solid 1px #005500;
+}
+.csPageSubHeader {
+	background: #ccc;
+	border-bottom: solid 1px #050;
+	padding: 10px;
+}
+
+.csItems {
+	list-style: none;
+	display: table;
+	width: 100%;
+}

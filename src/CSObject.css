@@ -1,0 +1,26 @@
+.csNode {
+
+}
+
+.nodeLink {
+	cursor: pointer;
+}
+
+.cs-popup {
+	position: absolute;
+	border: solid 1px #ccc;
+	border-radius: 5px;
+}
+
+.cs-popup-list {
+	list-style: none;
+	cursor: pointer;
+	margin:0; 
+	padding:10px;
+	background:#fff; color:#333;
+}
+.cs-popup-list>li:hover {
+	background: #ccc;
+	color: black;
+}
+

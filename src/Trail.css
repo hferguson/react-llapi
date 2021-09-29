@@ -1,0 +1,14 @@
+.csPathElem {
+		cursor: pointer;
+		margin-right: .25em;
+		margin-left: .25em;
+		font-weight: bold;
+		
+}
+
+.csPathElem::after {
+	content: ':';
+}
+.csPathElem::last-of-type {
+	content: '';
+}
